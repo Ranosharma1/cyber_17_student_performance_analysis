@@ -1,10 +1,10 @@
-# 🎓 Student Performance Analysis
+#  Student Performance Analysis
 
 > A Python-based data analysis project that explores student performance using data visualization and exploratory data analysis (EDA).
 
 ---
 
-## 📌 About the Project
+## About the Project
 
 This project was created to better understand the factors that influence student academic performance. Using Python and data analysis libraries, I explored the dataset, cleaned the data, created visualizations, and identified trends that can help educators and students make better decisions.
 
@@ -12,7 +12,7 @@ The goal wasn't just to create graphs, but to understand the story hidden inside
 
 ---
 
-## 🚀 What This Project Does
+##  What This Project Does
 
 - Cleans and preprocesses the dataset
 - Explores the data using Exploratory Data Analysis (EDA)
@@ -23,7 +23,7 @@ The goal wasn't just to create graphs, but to understand the story hidden inside
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Python**
 - **Pandas**
@@ -34,7 +34,7 @@ The goal wasn't just to create graphs, but to understand the story hidden inside
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 cyber_17_student_performance_analysis/
@@ -47,7 +47,7 @@ cyber_17_student_performance_analysis/
 
 ---
 
-## 📊 Analysis Performed
+## Analysis Performed
 
 During this project, I worked on:
 
@@ -61,16 +61,16 @@ During this project, I worked on:
 
 Some of the visualizations include:
 
-- 📈 Line Charts
-- 📊 Bar Graphs
-- 📉 Histograms
-- 🔥 Correlation Heatmaps
-- 📦 Box Plots
-- 🎯 Scatter Plots
+-  Line Charts
+-  Bar Graphs
+- Histograms
+-  Correlation Heatmaps
+-  Box Plots
+-  Scatter Plots
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 Some interesting observations from the analysis include:
 
@@ -81,7 +81,7 @@ Some interesting observations from the analysis include:
 
 ---
 
-## ▶️ Getting Started
+## Getting Started
 
 Clone the repository:
 
@@ -111,7 +111,7 @@ Open the notebook and explore the analysis.
 
 ---
 
-## 📸 Sample Output
+##  Sample Output
 
 You can add screenshots of your visualizations here.
 
@@ -127,7 +127,7 @@ images/
 
 ---
 
-## 🌱 Future Improvements
+##  Future Improvements
 
 There are several ways this project can be expanded:
 
@@ -138,13 +138,13 @@ There are several ways this project can be expanded:
 
 ---
 
-## 🤝 Contributions
+##  Contributions
 
 If you have ideas to improve this project, feel free to fork the repository, make changes, and submit a pull request.
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 Hi, I'm **Rano Sharma** 👋
 
@@ -152,8 +152,8 @@ I'm a Master's student in Computer Science with a strong interest in **Data Anal
 
 ### Connect with me
 
-- 💼 LinkedIn: www.linkedin.com/in/rano-sharma-1958572a6
-- 💻 GitHub: https://github.com/Ranosharma1
+-  LinkedIn: www.linkedin.com/in/rano-sharma-1958572a6
+-  GitHub: https://github.com/Ranosharma1
 
 ---
 
