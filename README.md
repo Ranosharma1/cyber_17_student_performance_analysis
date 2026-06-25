@@ -146,7 +146,7 @@ If you have ideas to improve this project, feel free to fork the repository, mak
 
 ##  About Me
 
-Hi, I'm **Rano Sharma** 👋
+Hi, I'm **Rano Sharma** 
 
 I'm a Master's student in Computer Science with a strong interest in **Data Analytics, Full Stack Development, AI, and Cyber Security**. I enjoy building practical projects that solve real-world problems while continuously learning new technologies.
 
